@@ -1,5 +1,5 @@
-# Pobieranie danych z kanałów RSS
+# Create dataset from RSS feeds
 
-Programu __feedscraper__ służy do stworzenie zbioru danych zawierających metadane dotyczące wiadomości.
+__feedscraper__ is python application used to crap RSS channels to create dataset with new metadata.
 
 
