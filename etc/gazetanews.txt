@@ -1,0 +1,42 @@
+# Białystok
+http://rss.feedsportal.com/c/32739/f/530233/index.rss
+# Bydgoszcz
+http://rss.feedsportal.com/c/32739/f/530239/index.rss
+# Elbląg
+http://rss.feedsportal.com/c/32739/f/530260/index.rss
+# Gliwice
+http://rss.feedsportal.com/c/32739/f/530261/index.rss
+# Gorzów
+http://rss.feedsportal.com/c/32739/f/530275/index.rss
+# Katowice
+http://rss.feedsportal.com/c/32739/f/530306/index.rss
+# Kielce
+http://rss.feedsportal.com/c/32739/f/530308/index.rss
+# Kraków
+http://rss.feedsportal.com/c/32739/f/530324/index.rss
+# Lublin
+http://rss.feedsportal.com/c/32739/f/530332/index.rss
+# Łódź
+http://gazeta.pl.feedsportal.com/c/32739/f/611644/index.rss
+# Olsztyn
+http://rss.feedsportal.com/c/32739/f/530366/index.rss
+# Opole
+http://rss.feedsportal.com/c/32739/f/530369/index.rss
+# Radom
+http://rss.feedsportal.com/c/32739/f/530404/index.rss
+# Płock
+http://rss.feedsportal.com/c/32739/f/530377/index.rss
+# Rzeszów
+http://rss.feedsportal.com/c/32739/f/530422/index.rss
+# Sosnowiec
+http://rss.feedsportal.com/c/32739/f/530263/index.rss
+# Szczeciń
+http://rss.feedsportal.com/c/32739/f/530434/index.rss
+# Toruń
+http://rss.feedsportal.com/c/32739/f/530454/index.rss
+# Trójmiasto
+http://rss.feedsportal.com/c/32739/f/530456/index.rss
+# Wrocław
+http://gazeta.pl.feedsportal.com/c/32739/f/667404/index.rss
+# Zielona góra
+http://rss.feedsportal.com/c/32739/f/530495/index.rss
